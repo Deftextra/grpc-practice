@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2pE0PEzf/Oh+OfdRFuVqSXyWiVIypOM8tJkHEWSQAGhLnkKeIZ+9WWCt1xENTXBivoHwi7sB5r62sLpYrj8htQ==",
+  "dgSpecHash": "W4mZszt405h6LIQLI1cvYfchCAhfwgdHdVw0rxMlYf2NhvzUJK/UqtHcnJeWtvvAvHBo+2JBclbQS3w3564nVw==",
   "success": true,
-  "projectFilePath": "/Users/radwansuufi/projects/grpc-test/grpc-test.csproj",
+  "projectFilePath": "/Users/radwansuufi/projects/grpc-project/grpc-server/grpc-server.csproj",
   "expectedPackageFiles": [
     "/Users/radwansuufi/.nuget/packages/google.protobuf/3.23.1/google.protobuf.3.23.1.nupkg.sha512",
     "/Users/radwansuufi/.nuget/packages/grpc.aspnetcore/2.57.0/grpc.aspnetcore.2.57.0.nupkg.sha512",
